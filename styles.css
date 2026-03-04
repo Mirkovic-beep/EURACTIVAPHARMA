@@ -29,7 +29,7 @@ body { margin: 0; font-family: Inter, Arial, sans-serif; color: var(--text); bac
 
 .nav-left { display: flex; align-items: center; gap: 1.3rem; min-width: 0; }
 .brand { display: inline-flex; align-items: center; flex-shrink: 0; padding: 10px 0 8px; }
-.logo { width: clamp(220px, 18vw, 300px); height: auto; display: block; }
+.logo { width: clamp(120px, 11vw, 180px); height: auto; display: block; }
 
 .main-nav {
   display: flex; flex-wrap: wrap; align-items: center; gap: 1.05rem;
