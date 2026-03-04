@@ -58,7 +58,7 @@ body {
 }
 
 .logo {
-  width: clamp(160px, 18vw, 220px);
+  width: clamp(190px, 22vw, 300px);
   height: auto;
   display: block;
 }
