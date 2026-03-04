@@ -61,7 +61,6 @@ body {
   width: clamp(160px, 18vw, 220px);
   height: auto;
   display: block;
-  mix-blend-mode: screen;
 }
 
 .main-nav {
