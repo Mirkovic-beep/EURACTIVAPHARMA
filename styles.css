@@ -28,7 +28,7 @@ body { margin: 0; font-family: Inter, Arial, sans-serif; color: var(--text); bac
 }
 
 .nav-left { display: flex; align-items: center; gap: 1.3rem; min-width: 0; }
-.brand { display: inline-flex; align-items: center; flex-shrink: 0; }
+.brand { display: inline-flex; align-items: center; flex-shrink: 0; padding: 6px 0; }
 .logo { width: clamp(82px, 8vw, 118px); height: auto; display: block; }
 
 .main-nav {
